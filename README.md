@@ -28,8 +28,3 @@ Each algorithm highlights:
 
 ---
 
-## 💻 How to Run
-
-1. **Compile the code:**
-   ```bash
-   g++ -o visualizer sorting_visualizer.cpp
